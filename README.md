@@ -12,13 +12,13 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreehari78&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreehari78&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="175" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sreehari78&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreehari78&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
