@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/sreehari7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
-  <a href="shnell7" target="_blank">
+  <a href="discordapp.com/users/shnell7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
   </a>
   <a href="shraxx7@gmail.com" target="_blank">
