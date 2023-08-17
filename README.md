@@ -6,6 +6,23 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sreehari78/Sreehari78/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="180" src="https://media.tenor.com/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreehari78&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreehari78&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="175" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
   <img width="15" />
@@ -51,20 +68,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreehari78&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreehari78&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
 
 ###
