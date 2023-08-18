@@ -12,13 +12,13 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif"  />
+<img align="right" height="125" src="https://media.tenor.com/AKp3ByyVnGcAAAAC/jujutsu-kaisen-itadori-yuji.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Sreehari78&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreehari78&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sreehari78&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreehari78&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="110" alt="languages graph"  />
 </div>
 
 ###
