@@ -33,10 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sreehari78/Sreehari78/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
